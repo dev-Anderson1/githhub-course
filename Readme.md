@@ -4,6 +4,6 @@
 
 #saiba mais no link 
 
-#enviando alteracoes do repositorio local para o remoto...
+#enviando alteracoes do repositorio local para o remoto...git commit -am "   "
 
 (   )
